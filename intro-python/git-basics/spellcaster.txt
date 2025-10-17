@@ -1,1 +1,2 @@
-I'm a git Wizard now!
+I was a git Wizard...
+But now I am a git Sorcerer!
